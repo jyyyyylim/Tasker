@@ -1,1 +1,1 @@
-this existed because the windows key is overrated, umad
+microsoft, nerf the windows key already its overrated
