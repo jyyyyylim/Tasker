@@ -51,4 +51,4 @@ echo: & echo ----------------------------------------------------------------- &
 echo: & echo ----------------------------------------------------------------- & echo: & echo Display a totally legit file tree? (exhaustive)   & pause & tree %systemdrive%/../../../.. & pause & goto exit
 
 :exit
-echo: & echo Cancelled menu. & timeout /t 2 & exit
+echo: & echo Cancelled menu. & timeout /t 5 & exit
